@@ -1,6 +1,6 @@
 # Computer Architecture Projects
 
-This repository contains two small C++ projects from a computer architecture course.
+This repository contains two small C++ projects related to computer systems architecture.
 
 ## Project P1: Simple CPU Simulator
 
